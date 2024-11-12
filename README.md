@@ -1,38 +1,35 @@
-# Streamlining Legal E-Billing with LEDES98B & LEDES98BI Formats
+# LEDES98BI E-Billing Template
 
-Welcome to the **LEDES98B & LEDES98BI E-Billing Tools** repository! This project is designed to help small and medium law firms automate and streamline their e-billing process using the LEDES98B and LEDES98BI formats, the industry standard for legal billing.
+Welcome to the **LEDES98BI E-Billing Template** repository! This project provides an easy-to-use tool for small and medium law firms to automate their billing process using the **LEDES98BI format**—the widely adopted standard for legal billing, especially for billing to insurance companies and third-party vendors.
 
 ## What’s Included:
 
-- **LEDES98B & LEDES98BI Templates (Excel & CSV)**  
-  These pre-built templates are designed to help you generate LEDES98B & LEDES98BI invoices quickly and accurately. The templates are customizable, so you can easily input your billing data and generate invoices in the required format for clients.
+- **LEDES98BI Excel Template**  
+  A pre-built Excel template that simplifies the creation of LEDES98BI-compliant invoices. The template allows you to easily input your billing data, and it automatically formats the invoice according to the LEDES98BI standards required by clients and vendors.
 
 - **Step-by-Step Instructions**  
-  Clear instructions for setting up and using the templates, with tips on how to customize them to meet your firm's specific needs. These guides will help you navigate the e-billing process, even if you're new to LEDES98B or LEDES98BI.
+  Detailed instructions on how to use the LEDES98BI Excel template. The guide covers the setup process, how to enter time entries and expenses, and how to generate the final LEDES98BI invoice that’s ready for submission.
 
-- **Ongoing Updates & Improvements**  
-  This project is continuously evolving based on user feedback and the latest industry standards. As the legal e-billing landscape changes, I’ll update these templates to reflect any new requirements or enhancements. Be sure to check for regular updates!
+- **Ongoing Updates**  
+  This project will continue to evolve. As feedback comes in, I will refine the template and add any new features to accommodate changing industry requirements or suggestions from users. Make sure to check for regular updates to improve your workflow.
 
-## Why Use These Tools?
+## Why Use This Template?
 
-- **Save Time**: The templates are designed to reduce manual entry, allowing your firm to generate invoices more efficiently.
-- **Improve Accuracy**: Automating the process helps minimize errors, ensuring your invoices meet client and industry requirements.
-- **Free & Accessible**: All resources in this repository are free to use, with no restrictions. You can customize the templates as needed to fit your firm's specific needs.
+- **Time-Saving**: The template automates the tedious task of formatting legal bills, saving you hours of manual work.
+- **Accuracy**: It reduces human errors by adhering to LEDES98BI standards, ensuring your invoices meet client specifications and regulatory requirements.
+- **Free & Open Source**: This template is completely free to use, and you can modify it to suit your firm’s specific needs.
 
 ## How to Get Started:
 
-1. **Download the Template**: Choose the format (Excel or CSV) that works best for your firm.
-2. **Follow the Instructions**: Use the step-by-step guide to input your data and generate your LEDES98B or LEDES98BI invoice.
-3. **Provide Feedback**: If you have suggestions for improvement or encounter any issues, open an issue in the repository, and I’ll make adjustments.
+1. **Download the Template**: Simply download the **LEDES98BI Excel template** from this repository.
+2. **Input Your Data**: Follow the instructions to enter your billable hours, expenses, and any other relevant data into the template.
+3. **Generate Your Invoice**: Once the data is entered, the template will format your information into the LEDES98BI format, making it ready to submit to clients or vendors.
+4. **Provide Feedback**: If you have any suggestions for improvement or run into issues, feel free to open an issue here on GitHub.
 
-## Ongoing Support & Consulting:
+## Need More Help?
 
-I’m also available for part-time e-billing consulting! If you need help setting up or optimizing your billing process, feel free to reach out to discuss tailored solutions.
+I offer part-time e-billing consulting services! If you need assistance with setting up your LEDES98BI process, or want to optimize your e-billing workflow, reach out to discuss tailored support.
 
 ## License:
 
-This project is open source and free to use. Feel free to modify the templates for your firm's specific needs, but please credit the original work if you share it with others.
-
----
-
-This README should give users a clear idea of what they can expect from your repository, how to use the templates, and how they can engage with you for additional help. It also positions you as a knowledgeable resource in legal e-billing, which could help attract potential consulting opportunities.
+This project is open source and free for you to use. Feel free to modify and customize the template to fit your specific needs, but please credit the original work if you share it with others.
